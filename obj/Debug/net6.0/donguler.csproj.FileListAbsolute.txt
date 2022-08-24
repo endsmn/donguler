@@ -1,0 +1,15 @@
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\bin\Debug\net6.0\donguler.exe
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\bin\Debug\net6.0\donguler.deps.json
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\bin\Debug\net6.0\donguler.runtimeconfig.json
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\bin\Debug\net6.0\donguler.dll
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\bin\Debug\net6.0\donguler.pdb
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.csproj.AssemblyReference.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.AssemblyInfoInputs.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.AssemblyInfo.cs
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.csproj.CoreCompileInputs.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.dll
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\refint\donguler.dll
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.pdb
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\donguler.genruntimeconfig.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\donguler\obj\Debug\net6.0\ref\donguler.dll
